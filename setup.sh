@@ -1,1 +1,1 @@
-export $GH_USERNAME=artemsaveliev@github.com
+export $GH_USERNAME=artemsaveliev
